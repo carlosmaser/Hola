@@ -5,6 +5,7 @@ public class Repetir_ejemplo {
 	public static void main(String[] args) {
 		
 	System.out.println("hola");
+	System.out.println("hola2");
 			 
 		       int i=0; 
 		    		   while (true) {
